@@ -1,0 +1,33 @@
+segment_sources:
+  I685C90D0:
+    type: origin_type
+    relation: translation
+    language: en
+  IA945829B:
+    type: origin_type
+    relation: translation
+    language: fr
+  IFAC0693A:
+    type: origin_type
+    relation: translation
+    language: zh
+  I17994F73:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  fa8bdad7e45e49b6906f00e142ea6e62:
+    I685C90D0: 2e00e9755cc34932906a487cdbdfe976
+    IA945829B: 566c975aaaca4dc59805ee2600af68d3
+    IFAC0693A: d700f0655dff4a5d88e90efe3d1af915
+    I17994F73: 42497cf273024518b684cc4664c1550c
+  e45ccf90b9174271b93491687f0103d3:
+    I685C90D0: eea42e259a934393a70c26f0a7702592
+    IA945829B: 35c4c65b5b894867a82a7288cf404d12
+    IFAC0693A: 9afe5286714144d1a6ff548d52759123
+    I17994F73: 54edb600139a4e11a33971d97ecbc1ea
+  44bb9fdd211e4398bb8cbb196dc1f947:
+    I685C90D0: b13a2e4d7ac94691a3f4764a27c3bfdc
+    IA945829B: 855d30ad05664d2c92aee8c1cb20452f
+    IFAC0693A: dbd1982bc5934f0e838680d59cc70464
+    I17994F73: 9e8ced5312dd46adb014d8581ca9084c

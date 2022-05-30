@@ -1,0 +1,22 @@
+segment_sources:
+  I685C90D0:
+    type: origin_type
+    relation: translation
+    language: en
+  IA945829B:
+    type: origin_type
+    relation: translation
+    language: fr
+  I17994F73:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  2f077bac22e34f5699a7aa9c340d7685:
+    I685C90D0: b9d52be2e1da4a0d8430713f82e1d3e0
+    IA945829B: d1ec086c63434735b114ee67b790694e
+    I17994F73: b0df80c210e846b3a13361b14ece559a
+  759e86df31b94baba9a659cf5db2312a:
+    I685C90D0: 723d95425ab24d048b7043c3b3c0f947
+    IA945829B: 456122f6dd1d4ccc9653abb1f72b6fed
+    I17994F73: f8a1614a661749f19b16bd183b9c5067

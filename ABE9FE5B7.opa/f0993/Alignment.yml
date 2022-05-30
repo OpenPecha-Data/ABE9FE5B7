@@ -1,0 +1,19 @@
+segment_sources:
+  I685C90D0:
+    type: origin_type
+    relation: translation
+    language: en
+  I17994F73:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  9a96bc2b5a554e3d82a04095d9a08bbf:
+    I685C90D0: 49ca137d2f8b45c99c91b8b565a90205
+    I17994F73: af690ec3ba8d4dabb242ab63f48399ad
+  e9d96d6e1caa40429ba5ccf4b7e7f358:
+    I685C90D0: 57cf9cd65b884f118942e8bd9b513ea4
+    I17994F73: 7bb7ef281bea4d399b49b3860a1851cb
+  350f1c2d6e5b405aa8db8731cd163538:
+    I685C90D0: 39128b32eaea48a29f148495fd68e180
+    I17994F73: 786486efea0b4725a14526be5fc39722

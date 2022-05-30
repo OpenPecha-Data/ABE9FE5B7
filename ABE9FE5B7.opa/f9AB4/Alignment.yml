@@ -1,0 +1,64 @@
+segment_sources:
+  I685C90D0:
+    type: origin_type
+    relation: translation
+    language: en
+  IAFBC4D6A:
+    type: origin_type
+    relation: translation
+    language: de
+  IFCD46524:
+    type: origin_type
+    relation: translation
+    language: es
+  IA945829B:
+    type: origin_type
+    relation: translation
+    language: fr
+  I17994F73:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  68bc06d6ba8b4538b4cec185485c644c:
+    I685C90D0: e04ee348b6f14755b1f8d15d1bbc765f
+    IAFBC4D6A: 23af29d5391944e7a25bd3a77180bc8b
+    IFCD46524: 7fad0861fe4f483882063a6674358041
+    IA945829B: 9a78e1fcbf654012bfde433c18d6f511
+    I17994F73: 32a55411b5ad469b8f1d21434f72afbe
+  1df5e3f4c35849899ccff5ed28369272:
+    I685C90D0: 9df5d3454902478796292e10bbec31b9
+    IAFBC4D6A: bef4a9a3db2a4bdda602ecf33eeb3cd7
+    IFCD46524: 9afba2b9947d407b86f84f597a561750
+    IA945829B: 5b79eb248eb54f1b88a2bcec58b2d84a
+    I17994F73: a94920bf35f64a3ab31b807e43b563b1
+  2ac05599e45248b1910966591009f63e:
+    I685C90D0: 142a40f4d55d424696045ca7f6bd5b86
+    IAFBC4D6A: dd31ebe465424ccd9ef3c47d637ebd61
+    IFCD46524: ecc69f77550e46f5a51b0f727d405c3b
+    IA945829B: 68f5a05ad7b548f1b3ab75ae7c2afbf6
+    I17994F73: 7ee3c9aee8ed44de9e534388d7e80231
+  7b88497ab13d49759c70b0fad3a70c01:
+    I685C90D0: 5856adf74c6e417dab45ffe06f6c1793
+    IAFBC4D6A: 99a9eb2e45e9473cb5775c7140918317
+    IFCD46524: 66cda67ab0094c999fa8909a13df53f9
+    IA945829B: 25fc5795205c4255a31d7de7fb7a733c
+    I17994F73: b77e2f59c83e455fb83bed0aea6e8d62
+  931fabe417a0439fbc17fce7db579bda:
+    I685C90D0: fccbfe707a7741168b2d4f259229dcc8
+    IAFBC4D6A: 880fb0bef2ab4ac89723a6072f9ab163
+    IFCD46524: fcd96acc9bff438796a70017ee521731
+    IA945829B: d0dded1d4ba84b64bd8bc07c093deaec
+    I17994F73: b81fdfc084764eaf8de54c5b63449b52
+  1e2e737a6c364cc3a7a494c489d2b7fd:
+    I685C90D0: 4aa03aea585b4b31b5e9b9e4a5d09ee4
+    IAFBC4D6A: 9547a1e4273e48ca99a8ce3a0f3ea651
+    IFCD46524: 9849cd3e42aa4b81ae8f3cf6dbbded09
+    IA945829B: 6968f26306c54d70a706ec4c8300f421
+    I17994F73: 448841a5ceae4cedbe6359650b71cc8c
+  fd86064ed06742d1b5e10e2c876b5f53:
+    I685C90D0: 318dc0e9eb644286a50801d4d4be2ed8
+    IAFBC4D6A: f6689e7d7b1f4c9794023990f6e4c3ef
+    IFCD46524: 1c02435d95304f428781a225f66f6a9a
+    IA945829B: 5804b7b90848444b96164fcef3c4d852
+    I17994F73: ebddc932b2f340d6b536c8a3612b0614
